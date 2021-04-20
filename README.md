@@ -15,7 +15,7 @@ $ python manage.py runserver
 ---
 
 <h4 align='center'>Postman Testing</h4>
----
+
 > to register the users
 ```
 $ localhost:8000/auth/users/
@@ -28,4 +28,3 @@ $ localhost:8000/auth/users/activation/
 ```
 $ localhost:8000/auth/jwt/create/
 ```
----
